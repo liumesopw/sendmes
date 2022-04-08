@@ -10,7 +10,11 @@
 现在最新版已实现很多有趣的功能，比如群管，发各种消息，加好友，接收各种消息等等，可提供接口二次开发，欢迎技术交流。
 
 ![image](https://user-images.githubusercontent.com/96330669/162387802-46f3061c-d829-44a6-9126-e07681ed1872.png)
+
+
+
 企业微信也实现了类似的功能，如下图：
+
 ![image](https://user-images.githubusercontent.com/96330669/162388199-3c3ec65f-d3ec-477c-b7a7-e5b5ed037b9f.png)
 
 QQ：2645542961
